@@ -32,9 +32,9 @@ SOURCES += \
   file_ply_stl.cc \
   shaders.cc \
   main.cc \
-#  material.cc \
   glwidget.cc \
   window.cc
+
 
 INCLUDEPATH += /XXXXX/glew/include
 
