@@ -9,7 +9,6 @@
 #pragma GCC diagnostic ignored "-Wconversion"
 
 #include "object3D.h"
-#include "functions.h"
 #include <QString>
 
 #include "parametrizador.h"
